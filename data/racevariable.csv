@@ -1,0 +1,496 @@
+X,race
+tcga.2a.a8vl,white
+tcga.2a.a8vo,white
+tcga.2a.a8vt,asian
+tcga.2a.a8vv,NA
+tcga.2a.a8vx,white
+tcga.2a.a8w1,asian
+tcga.2a.a8w3,white
+tcga.2a.aayf,white
+tcga.2a.aayo,white
+tcga.2a.aayu,white
+tcga.4l.aa1f,white
+tcga.ch.5737,white
+tcga.ch.5738,white
+tcga.ch.5739,white
+tcga.ch.5740,white
+tcga.ch.5741,white
+tcga.ch.5743,white
+tcga.ch.5744,white
+tcga.ch.5745,white
+tcga.ch.5746,white
+tcga.ch.5748,white
+tcga.ch.5750,white
+tcga.ch.5751,white
+tcga.ch.5752,white
+tcga.ch.5753,white
+tcga.ch.5754,white
+tcga.ch.5761,white
+tcga.ch.5762,white
+tcga.ch.5763,white
+tcga.ch.5764,white
+tcga.ch.5765,white
+tcga.ch.5766,white
+tcga.ch.5767,white
+tcga.ch.5768,white
+tcga.ch.5769,white
+tcga.ch.5771,white
+tcga.ch.5772,white
+tcga.ch.5788,white
+tcga.ch.5789,white
+tcga.ch.5790,white
+tcga.ch.5791,white
+tcga.ch.5792,white
+tcga.ch.5794,white
+tcga.ej.5494,white
+tcga.ej.5495,white
+tcga.ej.5496,white
+tcga.ej.5497,white
+tcga.ej.5498,white
+tcga.ej.5499,asian
+tcga.ej.5501,white
+tcga.ej.5502,NA
+tcga.ej.5503,white
+tcga.ej.5504,white
+tcga.ej.5505,white
+tcga.ej.5506,white
+tcga.ej.5507,white
+tcga.ej.5508,white
+tcga.ej.5509,white
+tcga.ej.5510,white
+tcga.ej.5511,black or african american
+tcga.ej.5512,white
+tcga.ej.5514,white
+tcga.ej.5515,white
+tcga.ej.5516,white
+tcga.ej.5517,white
+tcga.ej.5518,white
+tcga.ej.5519,white
+tcga.ej.5521,white
+tcga.ej.5522,white
+tcga.ej.5524,white
+tcga.ej.5525,white
+tcga.ej.5526,white
+tcga.ej.5527,white
+tcga.ej.5530,white
+tcga.ej.5531,white
+tcga.ej.5532,white
+tcga.ej.5542,white
+tcga.ej.7115,white
+tcga.ej.7123,white
+tcga.ej.7125,white
+tcga.ej.7218,white
+tcga.ej.7312,white
+tcga.ej.7314,white
+tcga.ej.7315,white
+tcga.ej.7317,white
+tcga.ej.7318,white
+tcga.ej.7321,black or african american
+tcga.ej.7325,white
+tcga.ej.7327,white
+tcga.ej.7328,white
+tcga.ej.7330,white
+tcga.ej.7331,white
+tcga.ej.7781,white
+tcga.ej.7782,black or african american
+tcga.ej.7783,white
+tcga.ej.7784,white
+tcga.ej.7785,white
+tcga.ej.7786,white
+tcga.ej.7788,white
+tcga.ej.7789,black or african american
+tcga.ej.7791,white
+tcga.ej.7792,white
+tcga.ej.7793,white
+tcga.ej.7794,white
+tcga.ej.7797,white
+tcga.ej.8468,white
+tcga.ej.8469,black or african american
+tcga.ej.8470,black or african american
+tcga.ej.8472,white
+tcga.ej.8474,white
+tcga.ej.a46b,white
+tcga.ej.a46d,white
+tcga.ej.a46e,white
+tcga.ej.a46f,white
+tcga.ej.a46g,white
+tcga.ej.a46h,black or african american
+tcga.ej.a46i,black or african american
+tcga.ej.a65b,white
+tcga.ej.a65d,white
+tcga.ej.a65e,black or african american
+tcga.ej.a65f,white
+tcga.ej.a65g,white
+tcga.ej.a65j,white
+tcga.ej.a65m,black or african american
+tcga.ej.a6ra,white
+tcga.ej.a6rc,white
+tcga.ej.a7nf,white
+tcga.ej.a7ng,white
+tcga.ej.a7nh,white
+tcga.ej.a7nj,white
+tcga.ej.a7nk,white
+tcga.ej.a7nm,white
+tcga.ej.a7nn,white
+tcga.ej.a8fn,white
+tcga.ej.a8fo,NA
+tcga.ej.a8fp,white
+tcga.ej.a8fs,white
+tcga.ej.a8fu,white
+tcga.ej.ab20,NA
+tcga.ej.ab27,white
+tcga.fc.7708,asian
+tcga.fc.7961,white
+tcga.fc.a4ji,asian
+tcga.fc.a5ob,white
+tcga.fc.a66v,white
+tcga.fc.a6hd,white
+tcga.fc.a8o0,white
+tcga.g9.6329,white
+tcga.g9.6332,white
+tcga.g9.6333,white
+tcga.g9.6336,white
+tcga.g9.6338,white
+tcga.g9.6339,white
+tcga.g9.6342,white
+tcga.g9.6343,white
+tcga.g9.6347,NA
+tcga.g9.6348,white
+tcga.g9.6351,white
+tcga.g9.6353,white
+tcga.g9.6354,asian
+tcga.g9.6356,white
+tcga.g9.6361,white
+tcga.g9.6362,white
+tcga.g9.6363,white
+tcga.g9.6364,white
+tcga.g9.6365,white
+tcga.g9.6366,white
+tcga.g9.6367,white
+tcga.g9.6369,white
+tcga.g9.6370,white
+tcga.g9.6371,white
+tcga.g9.6373,white
+tcga.g9.6377,white
+tcga.g9.6378,black or african american
+tcga.g9.6379,white
+tcga.g9.6384,white
+tcga.g9.6385,white
+tcga.g9.6494,white
+tcga.g9.6496,white
+tcga.g9.6498,white
+tcga.g9.6499,white
+tcga.g9.7509,black or african american
+tcga.g9.7510,white
+tcga.g9.7519,white
+tcga.g9.7521,white
+tcga.g9.7522,white
+tcga.g9.7523,black or african american
+tcga.g9.7525,white
+tcga.g9.a9s0,white
+tcga.g9.a9s4,white
+tcga.g9.a9s7,white
+tcga.h9.7775,white
+tcga.h9.a6bx,white
+tcga.h9.a6by,white
+tcga.hc.7075,white
+tcga.hc.7077,black or african american
+tcga.hc.7078,white
+tcga.hc.7079,white
+tcga.hc.7080,white
+tcga.hc.7081,white
+tcga.hc.7209,white
+tcga.hc.7210,white
+tcga.hc.7211,white
+tcga.hc.7212,white
+tcga.hc.7213,white
+tcga.hc.7230,white
+tcga.hc.7231,white
+tcga.hc.7232,white
+tcga.hc.7233,white
+tcga.hc.7736,white
+tcga.hc.7737,black or african american
+tcga.hc.7738,white
+tcga.hc.7740,white
+tcga-hc-7741,white
+tcga.hc.7742,white
+tcga.hc.7744,white
+tcga.hc.7745,white
+tcga.hc.7747,white
+tcga.hc.7748,white
+tcga.hc.7749,white
+tcga.hc.7750,white
+tcga.hc.7752,white
+tcga.hc.7817,white
+tcga.hc.7818,white
+tcga.hc.7819,white
+tcga.hc.7820,white
+tcga.hc.7821,white
+tcga.hc.8212,white
+tcga.hc.8213,white
+tcga.hc.8216,white
+tcga.hc.8256,black or african american
+tcga.hc.8257,black or african american
+tcga.hc.8258,black or african american
+tcga.hc.8259,black or african american
+tcga.hc.8260,black or african american
+tcga.hc.8261,black or african american
+tcga.hc.8262,white
+tcga.hc.8264,white
+tcga.hc.8265,white
+tcga.hc.8266,white
+tcga.hc.a48f,white
+tcga.hc.a4zv,black or african american
+tcga.hc.a631,white
+tcga.hc.a632,white
+tcga.hc.a6al,white
+tcga.hc.a6an,white
+tcga.hc.a6ao,white
+tcga.hc.a6ap,white
+tcga.hc.a6aq,white
+tcga.hc.a6as,white
+tcga.hc.a6hx,white
+tcga.hc.a6hy,white
+tcga.hc.a76w,white
+tcga.hc.a76x,white
+tcga.hc.a8cy,white
+tcga.hc.a8d0,white
+tcga.hc.a8d1,white
+tcga.hi.7168,white
+tcga.hi.7169,white
+tcga.hi.7170,white
+tcga.hi.7171,white
+tcga.j4.8198,black or african american
+tcga.j4.8200,asian
+tcga.j4.a67k,white
+tcga.j4.a67l,white
+tcga.j4.a67m,white
+tcga.j4.a67n,white
+tcga.j4.a67o,white
+tcga.j4.a67q,white
+tcga.j4.a67r,white
+tcga.j4.a67s,white
+tcga.j4.a67t,white
+tcga.j4.a6g1,white
+tcga.j4.a6g3,white
+tcga.j4.a6m7,white
+tcga.j4.a83i,white
+tcga.j4.a83j,white
+tcga.j4.a83k,white
+tcga.j4.a83l,white
+tcga.j4.a83m,white
+tcga.j4.a83n,white
+tcga.j4.aatv,white
+tcga.j4.aatz,asian
+tcga.j4.aau2,white
+tcga.j9.a52b,white
+tcga.j9.a52c,white
+tcga.j9.a52d,white
+tcga.j9.a52e,white
+tcga.j9.a8ck,white
+tcga.j9.a8cl,white
+tcga.j9.a8cm,white
+tcga.j9.a8cn,white
+tcga.j9.a8cp,white
+tcga.kc.a4bl,black or african american
+tcga.kc.a4bn,black or african american
+tcga.kc.a4bo,black or african american
+tcga.kc.a4br,white
+tcga.kc.a4bv,asian
+tcga.kc.a7f3,white
+tcga.kc.a7f5,white
+tcga.kc.a7f6,white
+tcga.kc.a7fa,white
+tcga.kc.a7fd,white
+tcga.kc.a7fe,white
+tcga.kk.a59v,white
+tcga.kk.a59x,black or african american
+tcga.kk.a59y,white
+tcga.kk.a59z,black or african american
+tcga.kk.a5a1,black or african american
+tcga.kk.a6dy,black or african american
+tcga.kk.a6e0,asian
+tcga.kk.a6e1,white
+tcga.kk.a6e2,black or african american
+tcga.kk.a6e3,black or african american
+tcga.kk.a6e4,black or african american
+tcga.kk.a6e5,black or african american
+tcga.kk.a6e6,white
+tcga.kk.a6e7,NA
+tcga.kk.a6e8,white
+tcga.kk.a7ap,white
+tcga.kk.a7aq,white
+tcga.kk.a7au,white
+tcga.kk.a7av,black or african american
+tcga.kk.a7aw,black or african american
+tcga.kk.a7ay,white
+tcga.kk.a7az,white
+tcga.kk.a7b0,white
+tcga.kk.a7b1,white
+tcga.kk.a7b2,white
+tcga.kk.a7b3,white
+tcga.kk.a7b4,white
+tcga.kk.a8i4,white
+tcga.kk.a8i5,black or african american
+tcga.kk.a8i6,white
+tcga.kk.a8i7,white
+tcga.kk.a8i8,white
+tcga.kk.a8i9,NA
+tcga.kk.a8ia,white
+tcga.kk.a8ib,white
+tcga.kk.a8ic,white
+tcga.kk.a8id,NA
+tcga.kk.a8if,black or african american
+tcga.kk.a8ig,white
+tcga.kk.a8ih,white
+tcga.kk.a8ii,white
+tcga.kk.a8ij,white
+tcga.kk.a8ik,white
+tcga.kk.a8il,white
+tcga.kk.a8im,white
+tcga.m7.a71y,white
+tcga.m7.a71z,white
+tcga.m7.a720,white
+tcga.m7.a721,white
+tcga.m7.a722,white
+tcga.m7.a723,white
+tcga.m7.a724,white
+tcga.m7.a725,white
+tcga.mg.aamc,white
+tcga.qu.a6il,asian
+tcga.qu.a6im,white
+tcga.qu.a6in,white
+tcga.qu.a6io,black or african american
+tcga.qu.a6ip,white
+tcga.su.a7e7,white
+tcga.tp.a8tt,white
+tcga.tp.a8tv,white
+tcga.v1.a8mf,black or african american
+tcga.v1.a8mg,black or african american
+tcga.v1.a8mj,black or african american
+tcga.v1.a8mk,black or african american
+tcga.v1.a8ml,black or african american
+tcga.v1.a8mm,black or african american
+tcga.v1.a8mu,black or african american
+tcga.v1.a8wl,black or african american
+tcga.v1.a8wn,black or african american
+tcga.v1.a8ws,white
+tcga.v1.a8wv,white
+tcga.v1.a8ww,white
+tcga.v1.a8x3,white
+tcga.v1.a9o5,white
+tcga.v1.a9o7,white
+tcga.v1.a9o9,white
+tcga.v1.a9oa,white
+tcga.v1.a9of,white
+tcga.v1.a9oh,white
+tcga.v1.a9ol,asian
+tcga.v1.a9oq,white
+tcga.v1.a9ot,white
+tcga.v1.a9ox,white
+tcga.v1.a9oy,white
+tcga.v1.a9z7,white
+tcga.v1.a9z8,white
+tcga.v1.a9z9,white
+tcga.v1.a9zg,white
+tcga.v1.a9zi,white
+tcga.v1.a9zk,white
+tcga.v1.a9zr,white
+tcga.vn.a88i,white
+tcga.vn.a88k,white
+tcga.vn.a88l,white
+tcga.vn.a88m,black or african american
+tcga.vn.a88n,white
+tcga.vn.a88o,NA
+tcga.vn.a88p,white
+tcga.vn.a88q,white
+tcga.vn.a88r,black or african american
+tcga.vn.a943,white
+tcga.vp.a872,white
+tcga.vp.a875,black or african american
+tcga.vp.a876,white
+tcga.vp.a878,white
+tcga.vp.a879,white
+tcga.vp.a87b,white
+tcga.vp.a87c,black or african american
+tcga.vp.a87d,white
+tcga.vp.a87e,black or african american
+tcga.vp.a87h,white
+tcga.vp.a87j,black or african american
+tcga.vp.a87k,white
+tcga.vp.aa1n,white
+tcga.ww.a8zi,white
+tcga.x4.a8kq,white
+tcga.x4.a8ks,black or african american
+tcga.xa.a8jr,NA
+tcga.xj.a83f,white
+tcga.xj.a83g,black or african american
+tcga.xj.a83h,white
+tcga.xj.a9di,white
+tcga.xj.a9dk,white
+tcga.xj.a9dq,white
+tcga.xj.a9dx,american indian or alaska native
+tcga.xk.aair,white
+tcga.xk.aaiv,white
+tcga.xk.aaiw,white
+tcga.xk.aaj3,white
+tcga.xk.aaja,NA
+tcga.xk.aajp,white
+tcga.xk.aajr,white
+tcga.xk.aajt,white
+tcga.xk.aaju,white
+tcga.xk.aak1,white
+tcga.xq.a8tb,white
+tcga.y6.a8tl,NA
+tcga.yj.a8sw,NA
+tcga.yl.a8hj,white
+tcga.yl.a8hk,white
+tcga.yl.a8hl,white
+tcga.yl.a8hm,white
+tcga.yl.a8ho,black or african american
+tcga.yl.a8s8,white
+tcga.yl.a8s9,white
+tcga.yl.a8sa,white
+tcga.yl.a8sb,white
+tcga.yl.a8sc,white
+tcga.yl.a8sf,white
+tcga.yl.a8sh,white
+tcga.yl.a8si,white
+tcga.yl.a8sj,white
+tcga.yl.a8sk,white
+tcga.yl.a8sl,white
+tcga.yl.a8so,white
+tcga.yl.a8sp,white
+tcga.yl.a8sq,white
+tcga.yl.a8sr,white
+tcga.yl.a9wh,white
+tcga.yl.a9wi,white
+tcga.yl.a9wj,white
+tcga.yl.a9wk,black or african american
+tcga.yl.a9wl,white
+tcga.yl.a9wx,white
+tcga.yl.a9wy,white
+tcga.zg.a8qw,white
+tcga.zg.a8qx,white
+tcga.zg.a8qy,white
+tcga.zg.a8qz,white
+tcga.zg.a9ky,white
+tcga.zg.a9l0,white
+tcga.zg.a9l1,white
+tcga.zg.a9l2,white
+tcga.zg.a9l4,white
+tcga.zg.a9l5,white
+tcga.zg.a9l6,white
+tcga.zg.a9l9,white
+tcga.zg.a9lb,white
+tcga.zg.a9lm,white
+tcga.zg.a9ln,white
+tcga.zg.a9ls,white
+tcga.zg.a9lu,white
+tcga.zg.a9ly,white
+tcga.zg.a9lz,white
+tcga.zg.a9m4,white
+tcga.zg.a9mc,white
+tcga.zg.a9n3,white
+tcga.zg.a9nd,white
+tcga.zg.a9ni,white
